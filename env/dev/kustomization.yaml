@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/KevinDieu/demo-app
-  newTag: latest
+  newTag: c073fdcce93a8b93400cd18d60109cda1d21dd53
